@@ -1,5 +1,8 @@
 # Backstage Prereqs
 
+1. Run install_wsl.ps1 script first
+2. Once WSL enabled, from the Ubuntu shell, run the install_backstage_prereqs.sh script
+
 Bash Installation Script - This script will:
 
 Update package repositories
